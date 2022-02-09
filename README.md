@@ -10,3 +10,7 @@ and Code Composer Studio.
 • Submitted Technical and Business plans in the form of reports and video presentations.
 
 • Achieved complete funding for the hardware components of the project during the ongoing competition.
+
+Technical proposal - https://youtu.be/OqsZoDvOzAs
+
+Business proposal - https://youtu.be/roVT2rqoUds
